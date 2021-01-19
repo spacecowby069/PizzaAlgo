@@ -3,6 +3,8 @@ Pizza Algo
 1. Decide on a pizza place.
 2. Decide on toppings and crust
 3. Call pizza place
+    3a. Decide pay with check
+    3b. Decide pay with card
 4. Wait on pizza
 5. Pay delivery dude
 6. Eat pizza
